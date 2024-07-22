@@ -1,0 +1,7 @@
+<section class="container" >
+  <div class="bg-success p-2 text-white"> <h1> Objetivo General</h1></div>
+  <div class="bg-success p-2 text-white bg-opacity-75"> Obtener la satisfaccion total de nuestros clientes con la venta de productos que inspiren confianza por su alta calidad, asegurando así nuestra propia permanencia y futuro por medio de la constante actualización e innovación de nuestro portafolio</div>
+  <div class="bg-success p-2 text-dark bg-opacity-50"> El servicio post venta es una fase fundamental es una fase fundamental del servicio al cliente y no se limita a la sustitucion o revision del producto. Abarca todos los servicios ofrecidos después de la compra y, por lo tanto, también incluye la entrega e instalación de los bienes, así como la asistencia física o en línea al comprador.</div>
+  El uso de un celular que, aunque siga manteniendo la reputación de excelencia que siempre caracterizó a la compañía de la manzana mordida, puede ser algo de uso común en ciudades como Nueva York, en Argentina es casi un bien de lujo
+  <div class="bg-success p-2 text-dark bg-opacity-25">Pero, aunque haya recuperado la pole position en el último cuatrimestre de 2022, la marca más vendida en todo el mundo es año pasado fué Samsung en cuanto a celulares. Tambien lo es en Argentina. En 2021 consiguió tener el 31,9 % de aprticipación en el mercado, seguido por Motorola</div>
+</section>
